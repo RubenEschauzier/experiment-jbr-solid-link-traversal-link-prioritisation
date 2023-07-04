@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "solidbench-full-combination-link-prioritisation",
+  "dependencies": {
+    "@jbr-experiment/solidbench": "^2.6.1",
+    "@jbr-hook/sparql-endpoint-comunica": "^2.6.0",
+    "cross-env": "^7.0.3",
+    "jbr": "^2.6.0"
+  },
+  "scripts": {
+    "jbr": "cross-env NODE_OPTIONS=--max-old-space-size=8192 jbr",
+    "validate": "jbr validate"
+  }
+}

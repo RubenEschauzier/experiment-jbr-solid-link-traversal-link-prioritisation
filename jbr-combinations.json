@@ -1,0 +1,11 @@
+{
+  "@context": [
+    "https://linkedsoftwaredependencies.org/bundles/npm/jbr/^2.0.0/components/context.jsonld"
+  ],
+  "@id": "urn:jbr:solidbench-full-combination-link-prioritisation-combinations",
+  "@type": "FullFactorialCombinationProvider",
+  "commonGenerated": false,
+  "factors": {
+    "order": ["best-first", "best-dieff", "c1", "c2", "c3", "c4", "c5", "c6"]
+  }
+}
