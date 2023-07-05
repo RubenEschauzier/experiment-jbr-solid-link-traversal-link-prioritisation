@@ -1,4 +1,4 @@
-FROM comunica/query-sparql-link-traversal-solid:dev-link-prio
+FROM rubeneschauzier/docker-image-solid-link-prioritisation:latest
 
 ARG CONFIG_CLIENT
 ARG QUERY_TIMEOUT
