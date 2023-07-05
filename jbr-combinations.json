@@ -6,6 +6,6 @@
   "@type": "FullFactorialCombinationProvider",
   "commonGenerated": false,
   "factors": {
-    "order": ["best-first", "best-dieff", "c1", "c2", "c3", "c4", "c5", "c6"]
+    "order": ["c1", "c2", "c3", "c4", "c5", "c6", "standard"]
   }
 }
